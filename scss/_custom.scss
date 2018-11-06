@@ -1,0 +1,7 @@
+.carousel-indicators li { background-color: lighten($primary, 30) }
+.carousel-indicators .active { background-color: $primary }
+
+#info-producao {
+  margin-top: 100px;
+  color: $gray-700
+} 
